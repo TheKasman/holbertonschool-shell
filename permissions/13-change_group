@@ -1,2 +1,2 @@
 #!/bin/bash
-chown :school ../tmp/hello
+chown :school hello
