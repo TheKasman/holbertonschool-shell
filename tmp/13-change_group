@@ -1,2 +1,2 @@
 #!/bin/bash
-chown :school /permissions/hello
+chown :school ../tmp/hello
