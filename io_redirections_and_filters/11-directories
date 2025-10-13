@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./  -exec ls -Rad | wc -l
+find -type d ! -path '.' ! -path '..' | wc -l
