@@ -1,0 +1,2 @@
+#!/bin/bash
+export MY_VAR="${MY_VAR}128"
